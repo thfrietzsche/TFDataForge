@@ -1,2 +1,2 @@
-# FrietzscheGithub
- FrietzscheGithub
+# Frietzsche Github
+ Frietzsche Github
